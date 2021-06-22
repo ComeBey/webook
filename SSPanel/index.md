@@ -4,6 +4,4 @@
 
 ## 可对接的协议如下：
 
-| v2ray | vmess协议： | vmess+tls| vmess+ws | vmess+tls+nginx | vmess| v2ray | 协议： | vmess| v2ray | 协议： | vmess| v2ray | 协议： | vmess|
-|---------|----------|--------|
-| 认证信息| 指令部分 | 数据部分|
+目前基本支持主流：v2ray所有协议vmes/vless/nginx/ws/tls/xtls/trojan/ss/ssr都没问题我会定时更新
